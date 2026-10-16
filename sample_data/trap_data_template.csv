@@ -1,0 +1,21 @@
+trap_id,site_name,latitude,longitude,date,collection_method,species,sex,count
+MDG-001,Bulabulin Ward,11.8333,13.1500,2026-05-01,CDC Light Trap,Anopheles gambiae,Female,12
+MDG-001,Bulabulin Ward,11.8333,13.1500,2026-05-01,CDC Light Trap,Anopheles coluzzii,Female,4
+MDG-001,Bulabulin Ward,11.8333,13.1500,2026-05-15,CDC Light Trap,Anopheles gambiae,Female,18
+MDG-001,Bulabulin Ward,11.8333,13.1500,2026-05-15,CDC Light Trap,Anopheles coluzzii,Female,6
+MDG-001,Bulabulin Ward,11.8333,13.1500,2026-06-01,CDC Light Trap,Anopheles gambiae,Female,25
+MDG-001,Bulabulin Ward,11.8333,13.1500,2026-06-01,CDC Light Trap,Anopheles coluzzii,Female,9
+MDG-002,Gwange Ward,11.8480,13.1600,2026-05-01,CDC Light Trap,Anopheles gambiae,Female,8
+MDG-002,Gwange Ward,11.8480,13.1600,2026-05-15,CDC Light Trap,Anopheles gambiae,Female,10
+MDG-002,Gwange Ward,11.8480,13.1600,2026-06-01,CDC Light Trap,Anopheles gambiae,Female,9
+MDG-002,Gwange Ward,11.8480,13.1600,2026-06-01,CDC Light Trap,Anopheles arabiensis,Female,3
+MDG-003,Old Maiduguri,11.8390,13.1650,2026-05-01,Pyrethrum Spray Catch,Anopheles gambiae,Female,20
+MDG-003,Old Maiduguri,11.8390,13.1650,2026-05-15,Pyrethrum Spray Catch,Anopheles gambiae,Female,27
+MDG-003,Old Maiduguri,11.8390,13.1650,2026-06-01,Pyrethrum Spray Catch,Anopheles gambiae,Female,35
+MDG-003,Old Maiduguri,11.8390,13.1650,2026-06-01,Pyrethrum Spray Catch,Anopheles coluzzii,Female,11
+MDG-004,Fori Ward,11.8550,13.1420,2026-05-01,Larval Dip,Anopheles gambiae,Female,15
+MDG-004,Fori Ward,11.8550,13.1420,2026-05-15,Larval Dip,Anopheles gambiae,Female,13
+MDG-004,Fori Ward,11.8550,13.1420,2026-06-01,Larval Dip,Anopheles gambiae,Female,11
+MDG-005,Custom House,11.8290,13.1550,2026-05-01,CDC Light Trap,Anopheles gambiae,Female,6
+MDG-005,Custom House,11.8290,13.1550,2026-05-15,CDC Light Trap,Anopheles gambiae,Female,7
+MDG-005,Custom House,11.8290,13.1550,2026-06-01,CDC Light Trap,Anopheles gambiae,Female,5

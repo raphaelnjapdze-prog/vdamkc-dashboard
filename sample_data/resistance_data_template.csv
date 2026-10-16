@@ -1,0 +1,15 @@
+site_name,date,insecticide,exposure_time_min,sample_size,mortality_percent
+Bulabulin Ward,2026-05-01,Deltamethrin,60,100,96.0
+Bulabulin Ward,2026-06-01,Deltamethrin,60,100,89.0
+Bulabulin Ward,2026-05-01,Permethrin,60,100,99.0
+Bulabulin Ward,2026-06-01,Permethrin,60,100,97.0
+Gwange Ward,2026-05-01,Deltamethrin,60,100,99.0
+Gwange Ward,2026-06-01,Deltamethrin,60,100,98.0
+Old Maiduguri,2026-05-01,Deltamethrin,60,100,91.0
+Old Maiduguri,2026-06-01,Deltamethrin,60,100,84.0
+Old Maiduguri,2026-05-01,Bendiocarb,60,100,100.0
+Old Maiduguri,2026-06-01,Bendiocarb,60,100,98.0
+Fori Ward,2026-05-01,Deltamethrin,60,100,98.0
+Fori Ward,2026-06-01,Deltamethrin,60,100,97.0
+Custom House,2026-05-01,Deltamethrin,60,100,100.0
+Custom House,2026-06-01,Deltamethrin,60,100,99.0

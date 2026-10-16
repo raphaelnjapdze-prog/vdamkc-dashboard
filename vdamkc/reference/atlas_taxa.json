@@ -1,0 +1,1077 @@
+{
+ "source": "Mosquito Atlas data/taxa/*.json",
+ "synced": "2026-10-16",
+ "taxa": [
+  {
+   "id": "aedes_aegypti",
+   "name": "Aedes aegypti",
+   "display": "Aedes aegypti",
+   "genus": "Aedes",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "aedes_metallicus",
+   "name": "Aedes metallicus",
+   "display": "Aedes metallicus",
+   "genus": "Aedes",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "aedes_apicoargenteus",
+   "name": "Aedes apicoargenteus",
+   "display": "Aedes apicoargenteus",
+   "genus": "Aedes",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "aedes_africanus",
+   "name": "Aedes africanus",
+   "display": "Aedes africanus",
+   "genus": "Aedes",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "aedes_luteocephalus",
+   "name": "Aedes luteocephalus",
+   "display": "Aedes luteocephalus",
+   "genus": "Aedes",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "aedes_unilineatus",
+   "name": "Aedes unilineatus",
+   "display": "Aedes unilineatus",
+   "genus": "Aedes",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "aedes_albopictus",
+   "name": "Aedes albopictus",
+   "display": "Aedes albopictus",
+   "genus": "Aedes",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "aedes_simpsoni",
+   "name": "Aedes simpsoni",
+   "display": "Aedes simpsoni",
+   "genus": "Aedes",
+   "group": "Ae. simpsoni complex",
+   "group_kind": "complex",
+   "group_members": [
+    "Ae. simpsoni",
+    "Ae. bromeliae",
+    "Ae. lilii"
+   ],
+   "group_note": "Huang (2004) keys the three species on the extent of white on tarsomeres and the claws, but these overlap; molecular methods are needed for reliable identification."
+  },
+  {
+   "id": "aedes_bromeliae",
+   "name": "Aedes bromeliae",
+   "display": "Aedes bromeliae",
+   "genus": "Aedes",
+   "group": "Ae. simpsoni complex",
+   "group_kind": "complex",
+   "group_members": [
+    "Ae. simpsoni",
+    "Ae. bromeliae",
+    "Ae. lilii"
+   ],
+   "group_note": "Huang (2004) keys the three species on the extent of white on tarsomeres and the claws, but these overlap; molecular methods are needed for reliable identification."
+  },
+  {
+   "id": "aedes_lilii",
+   "name": "Aedes lilii",
+   "display": "Aedes lilii",
+   "genus": "Aedes",
+   "group": "Ae. simpsoni complex",
+   "group_kind": "complex",
+   "group_members": [
+    "Ae. simpsoni",
+    "Ae. bromeliae",
+    "Ae. lilii"
+   ],
+   "group_note": "Huang (2004) keys the three species on the extent of white on tarsomeres and the claws, but these overlap; molecular methods are needed for reliable identification."
+  },
+  {
+   "id": "aedes_caballus",
+   "name": "Aedes caballus",
+   "display": "Aedes caballus",
+   "genus": "Aedes",
+   "group": "Ae. caballus group",
+   "group_kind": "group",
+   "group_members": [
+    "Ae. caballus",
+    "Ae. chelli",
+    "Ae. juppi"
+   ],
+   "group_note": "Three very similar Ochlerotatus species; separated by Huang & Rueda (2014), not available to this atlas; barcoding helps."
+  },
+  {
+   "id": "aedes_juppi",
+   "name": "Aedes juppi",
+   "display": "Aedes juppi",
+   "genus": "Aedes",
+   "group": "Ae. caballus group",
+   "group_kind": "group",
+   "group_members": [
+    "Ae. caballus",
+    "Ae. chelli",
+    "Ae. juppi"
+   ],
+   "group_note": "Three very similar Ochlerotatus species; separated by Huang & Rueda (2014), not available to this atlas; barcoding helps."
+  },
+  {
+   "id": "aedes_vittatus",
+   "name": "Aedes vittatus",
+   "display": "Aedes vittatus",
+   "genus": "Aedes",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "aedes_furcifer",
+   "name": "Aedes furcifer",
+   "display": "Aedes furcifer",
+   "genus": "Aedes",
+   "group": "Ae. furcifer–taylori group",
+   "group_kind": "group",
+   "group_members": [
+    "Ae. furcifer",
+    "Ae. taylori",
+    "Ae. cordellieri"
+   ],
+   "group_note": "Females separated on whether the abdominal terga are speckled with pale scales."
+  },
+  {
+   "id": "aedes_taylori",
+   "name": "Aedes taylori",
+   "display": "Aedes taylori",
+   "genus": "Aedes",
+   "group": "Ae. furcifer–taylori group",
+   "group_kind": "group",
+   "group_members": [
+    "Ae. furcifer",
+    "Ae. taylori",
+    "Ae. cordellieri"
+   ],
+   "group_note": "Females separated on whether the abdominal terga are speckled with pale scales."
+  },
+  {
+   "id": "aedes_argenteopunctatus",
+   "name": "Aedes argenteopunctatus",
+   "display": "Aedes argenteopunctatus",
+   "genus": "Aedes",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "aedes_ochraceus",
+   "name": "Aedes ochraceus",
+   "display": "Aedes ochraceus",
+   "genus": "Aedes",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "aedes_cumminsii",
+   "name": "Aedes cumminsii",
+   "display": "Aedes cumminsii",
+   "genus": "Aedes",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "aedes_dalzieli",
+   "name": "Aedes dalzieli",
+   "display": "Aedes dalzieli",
+   "genus": "Aedes",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "aedes_vexans",
+   "name": "Aedes vexans",
+   "display": "Aedes vexans",
+   "genus": "Aedes",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "aedes_fowleri",
+   "name": "Aedes fowleri",
+   "display": "Aedes fowleri",
+   "genus": "Aedes",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "aedes_mcintoshi",
+   "name": "Aedes mcintoshi",
+   "display": "Aedes mcintoshi",
+   "genus": "Aedes",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "aedes_pembaensis",
+   "name": "Aedes pembaensis",
+   "display": "Aedes pembaensis",
+   "genus": "Aedes",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "anopheles_gambiae",
+   "name": "Anopheles gambiae",
+   "display": "Anopheles gambiae s.s.",
+   "genus": "Anopheles",
+   "group": "An. gambiae complex",
+   "group_kind": "complex",
+   "group_members": [
+    "gambiae",
+    "coluzzii",
+    "arabiensis",
+    "quadriannulatus",
+    "amharicus",
+    "fontenillei",
+    "bwambae",
+    "melas",
+    "merus"
+   ],
+   "group_note": "Members are virtually identical as adults; morphology identifies 'An. gambiae s.l.' and the species is found by PCR (Scott et al. 1993; An. gambiae and An. coluzzii need a further assay)."
+  },
+  {
+   "id": "anopheles_coluzzii",
+   "name": "Anopheles coluzzii",
+   "display": "Anopheles coluzzii",
+   "genus": "Anopheles",
+   "group": "An. gambiae complex",
+   "group_kind": "complex",
+   "group_members": [
+    "gambiae",
+    "coluzzii",
+    "arabiensis",
+    "quadriannulatus",
+    "amharicus",
+    "fontenillei",
+    "bwambae",
+    "melas",
+    "merus"
+   ],
+   "group_note": "Members are virtually identical as adults; morphology identifies 'An. gambiae s.l.' and the species is found by PCR (Scott et al. 1993; An. gambiae and An. coluzzii need a further assay)."
+  },
+  {
+   "id": "anopheles_arabiensis",
+   "name": "Anopheles arabiensis",
+   "display": "Anopheles arabiensis",
+   "genus": "Anopheles",
+   "group": "An. gambiae complex",
+   "group_kind": "complex",
+   "group_members": [
+    "gambiae",
+    "coluzzii",
+    "arabiensis",
+    "quadriannulatus",
+    "amharicus",
+    "fontenillei",
+    "bwambae",
+    "melas",
+    "merus"
+   ],
+   "group_note": "Members are virtually identical as adults; morphology identifies 'An. gambiae s.l.' and the species is found by PCR (Scott et al. 1993; An. gambiae and An. coluzzii need a further assay)."
+  },
+  {
+   "id": "anopheles_merus",
+   "name": "Anopheles merus",
+   "display": "Anopheles merus",
+   "genus": "Anopheles",
+   "group": "An. gambiae complex",
+   "group_kind": "complex",
+   "group_members": [
+    "gambiae",
+    "coluzzii",
+    "arabiensis",
+    "quadriannulatus",
+    "amharicus",
+    "fontenillei",
+    "bwambae",
+    "melas",
+    "merus"
+   ],
+   "group_note": "Members are virtually identical as adults; morphology identifies 'An. gambiae s.l.' and the species is found by PCR (Scott et al. 1993; An. gambiae and An. coluzzii need a further assay)."
+  },
+  {
+   "id": "anopheles_melas",
+   "name": "Anopheles melas",
+   "display": "Anopheles melas",
+   "genus": "Anopheles",
+   "group": "An. gambiae complex",
+   "group_kind": "complex",
+   "group_members": [
+    "gambiae",
+    "coluzzii",
+    "arabiensis",
+    "quadriannulatus",
+    "amharicus",
+    "fontenillei",
+    "bwambae",
+    "melas",
+    "merus"
+   ],
+   "group_note": "Members are virtually identical as adults; morphology identifies 'An. gambiae s.l.' and the species is found by PCR (Scott et al. 1993; An. gambiae and An. coluzzii need a further assay)."
+  },
+  {
+   "id": "anopheles_quadriannulatus",
+   "name": "Anopheles quadriannulatus",
+   "display": "Anopheles quadriannulatus",
+   "genus": "Anopheles",
+   "group": "An. gambiae complex",
+   "group_kind": "complex",
+   "group_members": [
+    "gambiae",
+    "coluzzii",
+    "arabiensis",
+    "quadriannulatus",
+    "amharicus",
+    "fontenillei",
+    "bwambae",
+    "melas",
+    "merus"
+   ],
+   "group_note": "Members are virtually identical as adults; morphology identifies 'An. gambiae s.l.' and the species is found by PCR (Scott et al. 1993; An. gambiae and An. coluzzii need a further assay)."
+  },
+  {
+   "id": "anopheles_amharicus",
+   "name": "Anopheles amharicus",
+   "display": "Anopheles amharicus",
+   "genus": "Anopheles",
+   "group": "An. gambiae complex",
+   "group_kind": "complex",
+   "group_members": [
+    "gambiae",
+    "coluzzii",
+    "arabiensis",
+    "quadriannulatus",
+    "amharicus",
+    "fontenillei",
+    "bwambae",
+    "melas",
+    "merus"
+   ],
+   "group_note": "Members are virtually identical as adults; morphology identifies 'An. gambiae s.l.' and the species is found by PCR (Scott et al. 1993; An. gambiae and An. coluzzii need a further assay)."
+  },
+  {
+   "id": "anopheles_funestus",
+   "name": "Anopheles funestus",
+   "display": "Anopheles funestus s.s.",
+   "genus": "Anopheles",
+   "group": "An. funestus group",
+   "group_kind": "group",
+   "group_members": [
+    "funestus",
+    "funestus-like",
+    "parensis",
+    "vaneedeni",
+    "aruni",
+    "confusus",
+    "leesoni",
+    "rivulorum",
+    "rivulorum-like",
+    "brucei",
+    "fuscivenosus"
+   ],
+   "group_note": "Adult females are very similar; a few members key out on fine wing and palp characters, but routine identification uses the multiplex PCR of Koekemoer et al. (2002)."
+  },
+  {
+   "id": "anopheles_leesoni",
+   "name": "Anopheles leesoni",
+   "display": "Anopheles leesoni",
+   "genus": "Anopheles",
+   "group": "An. funestus group",
+   "group_kind": "group",
+   "group_members": [
+    "funestus",
+    "funestus-like",
+    "parensis",
+    "vaneedeni",
+    "aruni",
+    "confusus",
+    "leesoni",
+    "rivulorum",
+    "rivulorum-like",
+    "brucei",
+    "fuscivenosus"
+   ],
+   "group_note": "Adult females are very similar; a few members key out on fine wing and palp characters, but routine identification uses the multiplex PCR of Koekemoer et al. (2002)."
+  },
+  {
+   "id": "anopheles_vaneedeni",
+   "name": "Anopheles vaneedeni",
+   "display": "Anopheles vaneedeni",
+   "genus": "Anopheles",
+   "group": "An. funestus group",
+   "group_kind": "group",
+   "group_members": [
+    "funestus",
+    "funestus-like",
+    "parensis",
+    "vaneedeni",
+    "aruni",
+    "confusus",
+    "leesoni",
+    "rivulorum",
+    "rivulorum-like",
+    "brucei",
+    "fuscivenosus"
+   ],
+   "group_note": "Adult females are very similar; a few members key out on fine wing and palp characters, but routine identification uses the multiplex PCR of Koekemoer et al. (2002)."
+  },
+  {
+   "id": "anopheles_rivulorum_like",
+   "name": "Anopheles rivulorum-like",
+   "display": "Anopheles rivulorum-like",
+   "genus": "Anopheles",
+   "group": "An. funestus group",
+   "group_kind": "group",
+   "group_members": [
+    "funestus",
+    "funestus-like",
+    "parensis",
+    "vaneedeni",
+    "aruni",
+    "confusus",
+    "leesoni",
+    "rivulorum",
+    "rivulorum-like",
+    "brucei",
+    "fuscivenosus"
+   ],
+   "group_note": "Adult females are very similar; a few members key out on fine wing and palp characters, but routine identification uses the multiplex PCR of Koekemoer et al. (2002)."
+  },
+  {
+   "id": "anopheles_parensis",
+   "name": "Anopheles parensis",
+   "display": "Anopheles parensis",
+   "genus": "Anopheles",
+   "group": "An. funestus group",
+   "group_kind": "group",
+   "group_members": [
+    "funestus",
+    "funestus-like",
+    "parensis",
+    "vaneedeni",
+    "aruni",
+    "confusus",
+    "leesoni",
+    "rivulorum",
+    "rivulorum-like",
+    "brucei",
+    "fuscivenosus"
+   ],
+   "group_note": "Adult females are very similar; a few members key out on fine wing and palp characters, but routine identification uses the multiplex PCR of Koekemoer et al. (2002)."
+  },
+  {
+   "id": "anopheles_rivulorum",
+   "name": "Anopheles rivulorum",
+   "display": "Anopheles rivulorum",
+   "genus": "Anopheles",
+   "group": "An. funestus group",
+   "group_kind": "group",
+   "group_members": [
+    "funestus",
+    "funestus-like",
+    "parensis",
+    "vaneedeni",
+    "aruni",
+    "confusus",
+    "leesoni",
+    "rivulorum",
+    "rivulorum-like",
+    "brucei",
+    "fuscivenosus"
+   ],
+   "group_note": "Adult females are very similar; a few members key out on fine wing and palp characters, but routine identification uses the multiplex PCR of Koekemoer et al. (2002)."
+  },
+  {
+   "id": "anopheles_sergentii",
+   "name": "Anopheles sergentii",
+   "display": "Anopheles sergentii",
+   "genus": "Anopheles",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "anopheles_nili",
+   "name": "Anopheles nili",
+   "display": "Anopheles nili",
+   "genus": "Anopheles",
+   "group": "An. nili group",
+   "group_kind": "group",
+   "group_members": [
+    "nili",
+    "somalicus",
+    "carnevalei",
+    "ovengensis"
+   ],
+   "group_note": "An. nili and An. somalicus form a complex that cannot be separated as adults; An. carnevalei and An. ovengensis key out on wing characters."
+  },
+  {
+   "id": "anopheles_somalicus",
+   "name": "Anopheles somalicus",
+   "display": "Anopheles somalicus",
+   "genus": "Anopheles",
+   "group": "An. nili group",
+   "group_kind": "group",
+   "group_members": [
+    "nili",
+    "somalicus",
+    "carnevalei",
+    "ovengensis"
+   ],
+   "group_note": "An. nili and An. somalicus form a complex that cannot be separated as adults; An. carnevalei and An. ovengensis key out on wing characters."
+  },
+  {
+   "id": "anopheles_carnevalei",
+   "name": "Anopheles carnevalei",
+   "display": "Anopheles carnevalei",
+   "genus": "Anopheles",
+   "group": "An. nili group",
+   "group_kind": "group",
+   "group_members": [
+    "nili",
+    "somalicus",
+    "carnevalei",
+    "ovengensis"
+   ],
+   "group_note": "An. nili and An. somalicus form a complex that cannot be separated as adults; An. carnevalei and An. ovengensis key out on wing characters."
+  },
+  {
+   "id": "anopheles_ovengensis",
+   "name": "Anopheles ovengensis",
+   "display": "Anopheles ovengensis",
+   "genus": "Anopheles",
+   "group": "An. nili group",
+   "group_kind": "group",
+   "group_members": [
+    "nili",
+    "somalicus",
+    "carnevalei",
+    "ovengensis"
+   ],
+   "group_note": "An. nili and An. somalicus form a complex that cannot be separated as adults; An. carnevalei and An. ovengensis key out on wing characters."
+  },
+  {
+   "id": "anopheles_moucheti",
+   "name": "Anopheles moucheti",
+   "display": "Anopheles moucheti",
+   "genus": "Anopheles",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "anopheles_pharoensis",
+   "name": "Anopheles pharoensis",
+   "display": "Anopheles pharoensis",
+   "genus": "Anopheles",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "anopheles_squamosus",
+   "name": "Anopheles squamosus",
+   "display": "Anopheles squamosus",
+   "genus": "Anopheles",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "anopheles_coustani",
+   "name": "Anopheles coustani",
+   "display": "Anopheles coustani",
+   "genus": "Anopheles",
+   "group": "An. coustani group",
+   "group_kind": "group",
+   "group_members": [
+    "coustani",
+    "crypticus",
+    "namibiensis",
+    "paludis",
+    "symesi",
+    "tenebrosus",
+    "ziemanni",
+    "caliginosus"
+   ],
+   "group_note": "Some members overlap in adult characters (An. coustani / crypticus / namibiensis in southern Africa); immature stages help."
+  },
+  {
+   "id": "anopheles_ziemanni",
+   "name": "Anopheles ziemanni",
+   "display": "Anopheles ziemanni",
+   "genus": "Anopheles",
+   "group": "An. coustani group",
+   "group_kind": "group",
+   "group_members": [
+    "coustani",
+    "crypticus",
+    "namibiensis",
+    "paludis",
+    "symesi",
+    "tenebrosus",
+    "ziemanni",
+    "caliginosus"
+   ],
+   "group_note": "Some members overlap in adult characters (An. coustani / crypticus / namibiensis in southern Africa); immature stages help."
+  },
+  {
+   "id": "anopheles_paludis",
+   "name": "Anopheles paludis",
+   "display": "Anopheles paludis",
+   "genus": "Anopheles",
+   "group": "An. coustani group",
+   "group_kind": "group",
+   "group_members": [
+    "coustani",
+    "crypticus",
+    "namibiensis",
+    "paludis",
+    "symesi",
+    "tenebrosus",
+    "ziemanni",
+    "caliginosus"
+   ],
+   "group_note": "Some members overlap in adult characters (An. coustani / crypticus / namibiensis in southern Africa); immature stages help."
+  },
+  {
+   "id": "anopheles_tenebrosus",
+   "name": "Anopheles tenebrosus",
+   "display": "Anopheles tenebrosus",
+   "genus": "Anopheles",
+   "group": "An. coustani group",
+   "group_kind": "group",
+   "group_members": [
+    "coustani",
+    "crypticus",
+    "namibiensis",
+    "paludis",
+    "symesi",
+    "tenebrosus",
+    "ziemanni",
+    "caliginosus"
+   ],
+   "group_note": "Some members overlap in adult characters (An. coustani / crypticus / namibiensis in southern Africa); immature stages help."
+  },
+  {
+   "id": "anopheles_rufipes",
+   "name": "Anopheles rufipes",
+   "display": "Anopheles rufipes",
+   "genus": "Anopheles",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "anopheles_wellcomei",
+   "name": "Anopheles wellcomei",
+   "display": "Anopheles wellcomei",
+   "genus": "Anopheles",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "anopheles_maculipalpis",
+   "name": "Anopheles maculipalpis",
+   "display": "Anopheles maculipalpis",
+   "genus": "Anopheles",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "anopheles_pretoriensis",
+   "name": "Anopheles pretoriensis",
+   "display": "Anopheles pretoriensis",
+   "genus": "Anopheles",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "anopheles_stephensi",
+   "name": "Anopheles stephensi",
+   "display": "Anopheles stephensi",
+   "genus": "Anopheles",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "anopheles_demeilloni",
+   "name": "Anopheles demeilloni",
+   "display": "Anopheles demeilloni",
+   "genus": "Anopheles",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "anopheles_multicolor",
+   "name": "Anopheles multicolor",
+   "display": "Anopheles multicolor",
+   "genus": "Anopheles",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "anopheles_dthali",
+   "name": "Anopheles dthali",
+   "display": "Anopheles dthali",
+   "genus": "Anopheles",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "anopheles_cinereus",
+   "name": "Anopheles cinereus",
+   "display": "Anopheles cinereus",
+   "genus": "Anopheles",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "anopheles_marshallii",
+   "name": "Anopheles marshallii",
+   "display": "Anopheles marshallii",
+   "genus": "Anopheles",
+   "group": "An. marshallii complex",
+   "group_kind": "complex",
+   "group_members": [
+    "marshallii",
+    "letabensis",
+    "hughi",
+    "kosiensis"
+   ],
+   "group_note": "Members cannot be separated as adult females (they share the same couplet); allies An. hargreavesi, An. gibbinsi and An. mousinhoi differ in scutal scales."
+  },
+  {
+   "id": "anopheles_hancocki",
+   "name": "Anopheles hancocki",
+   "display": "Anopheles hancocki",
+   "genus": "Anopheles",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "anopheles_longipalpis",
+   "name": "Anopheles longipalpis",
+   "display": "Anopheles longipalpis",
+   "genus": "Anopheles",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "lutzia_tigripes",
+   "name": "Lutzia tigripes",
+   "display": "Lutzia tigripes (Culex tigripes)",
+   "genus": "Lutzia",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "culex_poicilipes",
+   "name": "Culex poicilipes",
+   "display": "Culex poicilipes",
+   "genus": "Culex",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "culex_bitaeniorhynchus",
+   "name": "Culex bitaeniorhynchus",
+   "display": "Culex bitaeniorhynchus",
+   "genus": "Culex",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "culex_annulioris",
+   "name": "Culex annulioris",
+   "display": "Culex annulioris",
+   "genus": "Culex",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "culex_sitiens",
+   "name": "Culex sitiens",
+   "display": "Culex sitiens",
+   "genus": "Culex",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "culex_tritaeniorhynchus",
+   "name": "Culex tritaeniorhynchus",
+   "display": "Culex tritaeniorhynchus",
+   "genus": "Culex",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "culex_duttoni",
+   "name": "Culex duttoni",
+   "display": "Culex duttoni",
+   "genus": "Culex",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "culex_theileri",
+   "name": "Culex theileri",
+   "display": "Culex theileri",
+   "genus": "Culex",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "culex_neavei",
+   "name": "Culex neavei",
+   "display": "Culex neavei",
+   "genus": "Culex",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "culex_univittatus",
+   "name": "Culex univittatus",
+   "display": "Culex univittatus",
+   "genus": "Culex",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "culex_pipiens",
+   "name": "Culex pipiens",
+   "display": "Culex pipiens",
+   "genus": "Culex",
+   "group": "Culex pipiens complex",
+   "group_kind": "complex",
+   "group_members": [
+    "Cx. pipiens",
+    "Cx. quinquefasciatus",
+    "Cx. australicus",
+    "Cx. globocoxitus"
+   ],
+   "group_note": "Females are separated on subtle scutal and tergal colour and wing proportions that are unreliable where the two species hybridise; molecular identification is advised."
+  },
+  {
+   "id": "culex_quinquefasciatus",
+   "name": "Culex quinquefasciatus",
+   "display": "Culex quinquefasciatus",
+   "genus": "Culex",
+   "group": "Culex pipiens complex",
+   "group_kind": "complex",
+   "group_members": [
+    "Cx. pipiens",
+    "Cx. quinquefasciatus",
+    "Cx. australicus",
+    "Cx. globocoxitus"
+   ],
+   "group_note": "Females are separated on subtle scutal and tergal colour and wing proportions that are unreliable where the two species hybridise; molecular identification is advised."
+  },
+  {
+   "id": "culex_antennatus",
+   "name": "Culex antennatus",
+   "display": "Culex antennatus",
+   "genus": "Culex",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "culex_decens",
+   "name": "Culex decens",
+   "display": "Culex decens",
+   "genus": "Culex",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "culex_perfuscus",
+   "name": "Culex perfuscus",
+   "display": "Culex perfuscus",
+   "genus": "Culex",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "culex_grahamii",
+   "name": "Culex grahamii",
+   "display": "Culex grahamii",
+   "genus": "Culex",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "culex_nebulosus",
+   "name": "Culex nebulosus",
+   "display": "Culex nebulosus",
+   "genus": "Culex",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "culex_cinereus",
+   "name": "Culex cinereus",
+   "display": "Culex cinereus",
+   "genus": "Culex",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "culex_thalassius",
+   "name": "Culex thalassius",
+   "display": "Culex thalassius",
+   "genus": "Culex",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "culex_guiarti",
+   "name": "Culex guiarti",
+   "display": "Culex guiarti",
+   "genus": "Culex",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "culex_trifilatus",
+   "name": "Culex trifilatus",
+   "display": "Culex trifilatus",
+   "genus": "Culex",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "culex_rubinotus",
+   "name": "Culex rubinotus",
+   "display": "Culex rubinotus",
+   "genus": "Culex",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  },
+  {
+   "id": "culex_invidiosus",
+   "name": "Culex invidiosus",
+   "display": "Culex invidiosus",
+   "genus": "Culex",
+   "group": null,
+   "group_kind": null,
+   "group_members": [],
+   "group_note": null
+  }
+ ]
+}
