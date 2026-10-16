@@ -1,5 +1,7 @@
 # VDAM KC — Vector Surveillance Dashboard
 
+**Live:** https://vdamkc-dashboard-ksz8kh3ciazdw3cie6v3jw.streamlit.app/
+
 A Streamlit dashboard that turns trap/species count data and insecticide-resistance
 bioassay data into a site map, species and density trends, WHO resistance status and
 a ranked "where to look first" site table. It is linked to the other VDAM KC tools:

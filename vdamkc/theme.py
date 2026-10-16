@@ -92,7 +92,7 @@ PAGE_CSS = f"""
 
 .stApp, [data-testid="stMarkdownContainer"] {{ font-family: {FONT}; }}
 h1, h2, h3, h4 {{ font-family: 'Space Grotesk', {FONT}; letter-spacing: -0.01em; color: {INK}; }}
-.block-container {{ padding-top: 2rem; max-width: 1320px; }}
+.block-container {{ padding-top: 4rem; max-width: 1320px; }}
 
 .vk-header {{
   display: flex; justify-content: space-between; align-items: flex-end; flex-wrap: wrap; gap: 12px;
